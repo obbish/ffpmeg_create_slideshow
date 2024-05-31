@@ -1,0 +1,1 @@
+python ffmpeg_create_slideshow.py /path/to/media/directory --slide_duration 3 --transition_duration 1 --resolution 1920x1080 --framerate 30 --output_file slideshow.mp4 --encoding_preset fast --transition_effect fade
